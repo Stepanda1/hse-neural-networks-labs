@@ -16,10 +16,10 @@
     "pneumonia_pct": 0,
     "orz_pct": 0,
     "overall_confidence_pct": 100,
-    "match": true,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Здоров",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -38,10 +38,10 @@
     "pneumonia_pct": 0,
     "orz_pct": 0,
     "overall_confidence_pct": 100,
-    "match": true,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Здоров",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -60,10 +60,10 @@
     "pneumonia_pct": 0,
     "orz_pct": 100,
     "overall_confidence_pct": 100,
-    "match": true,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Болен",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -82,10 +82,10 @@
     "pneumonia_pct": 0,
     "orz_pct": 100,
     "overall_confidence_pct": 100,
-    "match": true,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Болен",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -104,10 +104,10 @@
     "pneumonia_pct": 100,
     "orz_pct": 0,
     "overall_confidence_pct": 100,
-    "match": true,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Болен",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -126,10 +126,10 @@
     "pneumonia_pct": 100,
     "orz_pct": 0,
     "overall_confidence_pct": 100,
-    "match": true,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Болен",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -148,10 +148,10 @@
     "pneumonia_pct": 0,
     "orz_pct": 100,
     "overall_confidence_pct": 100,
-    "match": false,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Болен",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -170,10 +170,10 @@
     "pneumonia_pct": 0,
     "orz_pct": 0,
     "overall_confidence_pct": 100,
-    "match": false,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Здоров",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot"
   },
   {
     "input": [
@@ -189,12 +189,12 @@
     "input_verified": true,
     "screenshot": "Проверка_22.png",
     "actual": "ОРЗ",
-    "pneumonia_pct": 30,
-    "orz_pct": 83,
+    "pneumonia_pct": 44,
+    "orz_pct": 64,
     "overall_confidence_pct": 100,
-    "match": false,
-    "answer_verified": "Read from genuine native screenshot",
     "ui_status": "Болен",
-    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage",
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot"
   }
 ]

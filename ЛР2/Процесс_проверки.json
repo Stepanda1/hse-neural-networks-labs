@@ -18,5 +18,7 @@
   ],
   "same_training_matrices": true,
   "single_model_all_ten_verified": false,
-  "reason": "Trainer process exited when the last remaining thumbnail was selected; the tenth digit is supported by a separately trained native session"
+  "reason": "Trainer process exited when the last remaining thumbnail was selected; the tenth digit is supported by a separately trained native session",
+  "run2_pid": 27460,
+  "run2_training_count": 1
 }

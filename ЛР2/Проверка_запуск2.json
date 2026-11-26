@@ -5,7 +5,9 @@
     "actual": "Нечетная",
     "match": true,
     "bitmap_verified": true,
+    "native_pid": 27460,
+    "native_training_completions": 1,
     "run": 2,
-    "source": "Отдельный ранее выполненный запуск на том же обучающем множестве"
+    "source": "Отдельный контрольный запуск с русской локалью на тех же образах"
   }
 ]
