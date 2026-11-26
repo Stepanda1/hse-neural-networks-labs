@@ -4,77 +4,88 @@
     "expected": "A",
     "actual": "A",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 2,
     "expected": "A",
     "actual": "A",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 3,
     "expected": "A",
     "actual": "A",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 4,
     "expected": "A",
     "actual": "A",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 5,
     "expected": "B",
     "actual": "B",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 6,
     "expected": "B",
     "actual": "B",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 7,
     "expected": "B",
     "actual": "B",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 8,
     "expected": "B",
     "actual": "B",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 9,
     "expected": "C",
     "actual": "C",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 10,
     "expected": "C",
     "actual": "C",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 11,
     "expected": "C",
     "actual": "C",
     "match": true,
-    "bitmap_verified": true
+    "bitmap_verified": true,
+    "input_method": "thumbnail"
   },
   {
     "sample": 12,
