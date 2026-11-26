@@ -1,0 +1,200 @@
+[
+  {
+    "input": [
+      0,
+      0
+    ],
+    "expected": "Здоров",
+    "training_example": true,
+    "native_levels": [
+      "0-симптом отсутствует",
+      "0-симптом отсутствует"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_00.png",
+    "actual": "Здоров",
+    "pneumonia_pct": 0,
+    "orz_pct": 0,
+    "overall_confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Здоров",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      1,
+      0
+    ],
+    "expected": "Здоров",
+    "training_example": true,
+    "native_levels": [
+      "1-слабое проявление",
+      "0-симптом отсутствует"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_10.png",
+    "actual": "Здоров",
+    "pneumonia_pct": 0,
+    "orz_pct": 0,
+    "overall_confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Здоров",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      1,
+      1
+    ],
+    "expected": "ОРЗ",
+    "training_example": true,
+    "native_levels": [
+      "1-слабое проявление",
+      "1-слабое проявление"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_11.png",
+    "actual": "ОРЗ",
+    "pneumonia_pct": 0,
+    "orz_pct": 100,
+    "overall_confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Болен",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      2,
+      1
+    ],
+    "expected": "ОРЗ",
+    "training_example": true,
+    "native_levels": [
+      "2-среднее проявление",
+      "1-слабое проявление"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_21.png",
+    "actual": "ОРЗ",
+    "pneumonia_pct": 0,
+    "orz_pct": 100,
+    "overall_confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Болен",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      3,
+      3
+    ],
+    "expected": "Пневмония",
+    "training_example": true,
+    "native_levels": [
+      "3-сильное проявление",
+      "3-сильное проявление"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_33.png",
+    "actual": "Пневмония",
+    "pneumonia_pct": 100,
+    "orz_pct": 0,
+    "overall_confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Болен",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      2,
+      3
+    ],
+    "expected": "Пневмония",
+    "training_example": true,
+    "native_levels": [
+      "2-среднее проявление",
+      "3-сильное проявление"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_23.png",
+    "actual": "Пневмония",
+    "pneumonia_pct": 100,
+    "orz_pct": 0,
+    "overall_confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Болен",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      0,
+      1
+    ],
+    "expected": "Здоров",
+    "training_example": false,
+    "native_levels": [
+      "0-симптом отсутствует",
+      "1-слабое проявление"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_01.png",
+    "actual": "ОРЗ",
+    "pneumonia_pct": 0,
+    "orz_pct": 100,
+    "overall_confidence_pct": 100,
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Болен",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      3,
+      0
+    ],
+    "expected": "ОРЗ",
+    "training_example": false,
+    "native_levels": [
+      "3-сильное проявление",
+      "0-симптом отсутствует"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_30.png",
+    "actual": "Здоров",
+    "pneumonia_pct": 0,
+    "orz_pct": 0,
+    "overall_confidence_pct": 100,
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Здоров",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  },
+  {
+    "input": [
+      2,
+      2
+    ],
+    "expected": "Пневмония",
+    "training_example": false,
+    "native_levels": [
+      "2-среднее проявление",
+      "2-среднее проявление"
+    ],
+    "input_verified": true,
+    "screenshot": "Проверка_22.png",
+    "actual": "ОРЗ",
+    "pneumonia_pct": 30,
+    "orz_pct": 83,
+    "overall_confidence_pct": 100,
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot",
+    "ui_status": "Болен",
+    "decision_method": "UI Здоров, otherwise larger native Пневмония/ОРЗ percentage"
+  }
+]

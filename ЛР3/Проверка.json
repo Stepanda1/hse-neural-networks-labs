@@ -1,0 +1,67 @@
+[
+  {
+    "sample": 1,
+    "expected": "A",
+    "actual": "A",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 2,
+    "expected": "A",
+    "actual": "A",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 3,
+    "expected": "A",
+    "actual": "A",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 4,
+    "expected": "B",
+    "actual": "B",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 5,
+    "expected": "B",
+    "actual": "B",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 6,
+    "expected": "B",
+    "actual": "B",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 7,
+    "expected": "C",
+    "actual": "C",
+    "match": true,
+    "bitmap_verified": true
+  },
+  {
+    "sample": 8,
+    "expected": "C",
+    "actual": "C",
+    "match": true,
+    "bitmap_verified": true,
+    "input_method": "redrawn_after_native_stage6"
+  },
+  {
+    "sample": 9,
+    "expected": "C",
+    "actual": "C",
+    "match": true,
+    "bitmap_verified": true,
+    "input_method": "redrawn_after_native_stage6"
+  }
+]

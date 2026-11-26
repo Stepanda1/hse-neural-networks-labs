@@ -1,0 +1,7 @@
+<SETTINGS BtnAni="0" RCReq="0" FastGraph="1" Omega="0" Photo="0" Epochs="400">
+  <GSBS AntiAliasing="4" ColorDepth="3" DepthPrecision="0" ShadeModel="0" DepthTest="1" FaceCulling="1" FogEnable="0" Lighting="1" roDoubleBuffer="1" roStencilBuffer="0" roRenderToWindow="1" roTwoSideLighting="0" roStereo="0" roDestinationAlpha="1" roNoColorBuffer="0" roNoColorBufferClear="0" roNoSwapBuffers="0" />
+  <LR4 NSGraph="0" N2DGraph="0" N3DGraph="0" />
+  <THEORY FORMAT="PDF">
+    <DOC_VIEW DV="Default" />
+  </THEORY>
+</SETTINGS>

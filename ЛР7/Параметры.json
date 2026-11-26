@@ -1,0 +1,15 @@
+{
+  "network": [
+    2,
+    2,
+    3
+  ],
+  "learning_rate": 0.3,
+  "configured_epochs": 3000,
+  "training_examples": 6,
+  "training_matches": 6,
+  "unseen_count": 3,
+  "unseen_matches": 0,
+  "reference_rule": "sum of symptom levels <=1 Healthy, <=3 ORZ, >=4 Pneumonia",
+  "data": "Artificial educational data; native displayed integer confidence percentages"
+}

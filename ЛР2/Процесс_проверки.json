@@ -1,0 +1,22 @@
+{
+  "reported_runs": 2,
+  "run1_digits": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+  ],
+  "run1_pid": 11128,
+  "run1_training_count": 1,
+  "run2_digits": [
+    "9"
+  ],
+  "same_training_matrices": true,
+  "single_model_all_ten_verified": false,
+  "reason": "Trainer process exited when the last remaining thumbnail was selected; the tenth digit is supported by a separately trained native session"
+}

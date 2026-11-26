@@ -1,0 +1,28 @@
+{
+  "function": "AND",
+  "hidden": 2,
+  "learning_rate": 0.3,
+  "configured_epochs": 500,
+  "native_pid": 4020,
+  "activation": "sigmoid",
+  "alpha": 3,
+  "name": "03_AND_sigmoid_03_500",
+  "execution": "Native LR5.exe UI",
+  "native_journal": "1. Подберите два набора параметров нейросети, при которых она моделирует функцию логического умножения \"И\".\n\n\n> Процесс обучения завершен \nЗадача решена верно: \nПодберите ещё одну комбинацию параметров для моделирования функции \"И\"\n\n\n> Процесс обучения завершен \nЗадача решена верно: \n2. Подберите два набора параметров нейросети, при которых она моделирует функцию логического сложения \"ИЛИ\".\n",
+  "displayed_predictions": [
+    -0.006,
+    0.016,
+    0.019,
+    1.048
+  ],
+  "predictions_verified": "Read from genuine native result screenshot; outputs rounded to three decimals",
+  "native_accepted": true,
+  "reference_targets": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "max_abs_error_from_display": 0.04800000000000004,
+  "quantization_note": "Derived from three-decimal displayed outputs, not full precision"
+}

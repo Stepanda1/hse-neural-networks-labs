@@ -1,0 +1,22 @@
+[
+  {
+    "hidden": 2,
+    "train_count": 17,
+    "iterations": 5000,
+    "max_training_error_pct": 6.182962962962964,
+    "training_rmse": 0.7836484490922612,
+    "test_score": 9.5577,
+    "test_error_pct": 1.6381481481481461,
+    "rounded": 10
+  },
+  {
+    "hidden": 7,
+    "train_count": 17,
+    "iterations": 5000,
+    "max_training_error_pct": 0.49703703703703656,
+    "training_rmse": 0.057561833760594955,
+    "test_score": 9.9234,
+    "test_error_pct": 0.2837037037037004,
+    "rounded": 10
+  }
+]

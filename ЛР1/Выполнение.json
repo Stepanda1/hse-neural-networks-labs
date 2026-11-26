@@ -1,0 +1,41 @@
+{
+  "program": "LR1.exe",
+  "execution": "Original executable UI controlled through Win32, user authorized",
+  "original_sha256": "ec4f8b544fe5eed1911934721efd03bb64b7147a69509498331b03d7942e9555",
+  "code_unchanged": true,
+  "successful_parameters": [
+    {
+      "function": "И",
+      "weights": [
+        1,
+        1
+      ],
+      "threshold": 2
+    },
+    {
+      "function": "И",
+      "weights": [
+        2,
+        3
+      ],
+      "threshold": 4
+    },
+    {
+      "function": "ИЛИ",
+      "weights": [
+        1,
+        1
+      ],
+      "threshold": 1
+    },
+    {
+      "function": "ИЛИ",
+      "weights": [
+        2,
+        3
+      ],
+      "threshold": 2
+    }
+  ],
+  "xor": "Native attempt rejected. A single threshold neuron cannot represent XOR; mathematical proof required in report."
+}

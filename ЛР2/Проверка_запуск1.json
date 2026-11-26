@@ -1,0 +1,101 @@
+[
+  {
+    "digit": "0",
+    "expected": "Четная",
+    "actual": "Четная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "1",
+    "expected": "Нечетная",
+    "actual": "Нечетная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "2",
+    "expected": "Четная",
+    "actual": "Четная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "3",
+    "expected": "Нечетная",
+    "actual": "Нечетная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "4",
+    "expected": "Четная",
+    "actual": "Четная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "5",
+    "expected": "Нечетная",
+    "actual": "Нечетная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "6",
+    "expected": "Четная",
+    "actual": "Четная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "7",
+    "expected": "Нечетная",
+    "actual": "Нечетная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  },
+  {
+    "digit": "8",
+    "expected": "Четная",
+    "actual": "Четная",
+    "match": true,
+    "bitmap_verified": true,
+    "native_pid": 11128,
+    "native_training_completions": 1,
+    "run": 1,
+    "source": "Контрольный запуск с русской локалью"
+  }
+]

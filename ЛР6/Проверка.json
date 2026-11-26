@@ -1,0 +1,122 @@
+[
+  {
+    "input": [
+      0,
+      0,
+      0
+    ],
+    "expected": 0,
+    "training_example": true,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_000.png",
+    "actual": 0,
+    "confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      0,
+      0,
+      1
+    ],
+    "expected": 0,
+    "training_example": true,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_001.png",
+    "actual": 0,
+    "confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      0,
+      1,
+      0
+    ],
+    "expected": 0,
+    "training_example": true,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_010.png",
+    "actual": 0,
+    "confidence_pct": 99,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      0,
+      1,
+      1
+    ],
+    "expected": 1,
+    "training_example": true,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_011.png",
+    "actual": 1,
+    "confidence_pct": 99,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      1,
+      0,
+      0
+    ],
+    "expected": 0,
+    "training_example": true,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_100.png",
+    "actual": 0,
+    "confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      1,
+      0,
+      1
+    ],
+    "expected": 0,
+    "training_example": false,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_101.png",
+    "actual": 1,
+    "confidence_pct": 67,
+    "match": false,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      1,
+      1,
+      0
+    ],
+    "expected": 1,
+    "training_example": true,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_110.png",
+    "actual": 1,
+    "confidence_pct": 97,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  },
+  {
+    "input": [
+      1,
+      1,
+      1
+    ],
+    "expected": 1,
+    "training_example": false,
+    "bitmap_verified": true,
+    "screenshot": "Проверка_111.png",
+    "actual": 1,
+    "confidence_pct": 100,
+    "match": true,
+    "answer_verified": "Read from genuine native screenshot"
+  }
+]

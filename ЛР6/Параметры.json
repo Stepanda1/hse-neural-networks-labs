@@ -1,0 +1,17 @@
+{
+  "network": [
+    3,
+    1,
+    1
+  ],
+  "training_examples": 6,
+  "epochs": 2000,
+  "learning_rate": 0.3,
+  "training_matches": 6,
+  "training_count": 6,
+  "unseen_matches": 1,
+  "unseen_count": 2,
+  "test_matches": 7,
+  "test_count": 8,
+  "data": "Artificial educational binary data"
+}
